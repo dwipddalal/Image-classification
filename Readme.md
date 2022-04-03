@@ -1,6 +1,5 @@
 ## End to End Image Classfication
-We, as freshers, thoroughly enjoyed working in this project. Although the hackathon was a really thought provoking one, 
-adjusting the right number of epochs and hyperparameters really tested our understanding. 
+This is a part of submission for hackathon organised by IIT Delhi's AIML club. 
 
 - Train.py - We used tensorflow to create a custom deep learning model using complicated CNN architecture. Some of the layers 
 we used include - Conv2D, Dropout, MaxPool2D, Flatten, Dense. We also used ImageDataGenerator and coupled it with 
