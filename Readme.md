@@ -1,3 +1,4 @@
+## End to End Image Classfication
 We, as freshers, thoroughly enjoyed working in this project. Although the hackathon was a really thought provoking one, 
 adjusting the right number of epochs and hyperparameters really tested our understanding. 
 
